@@ -1,0 +1,45 @@
+{
+    "name": "Cadastre",
+    "description": "Cadastre",
+    "version": "1.0",
+    "author": "Aditya Kushwaha",
+    "author_email": "kaditya9711@gmail.com",
+    "questions": [
+        {
+            "question_en": "Types of Cadastre?",
+            "question_np": "कैडास्टर के प्रकार क्या हैं?",
+            "answer": "Analog and Digital",
+            "answer_np": "एनालॉग और डिजिटल",
+            "options": [
+                "Analog and Digital",
+                "Analog and Digital",
+                "Analog and Digital",
+                "Analog and Digital"
+            ],
+            "options_np": [
+                "एनालॉग और डिजिटल",
+                "एनालॉग और डिजिटल",
+                "एनालॉग और डिजिटल",
+                "एनालॉग और डिजिटल"
+            ]
+        },
+        {
+            "question_en": "What is the purpose of Cadastre?",
+            "question_np": "कैडास्टर का उद्देश्य क्या है?",
+            "answer": "To provide information about the ownership of land and buildings",
+            "answer_np": "भूमि और इमारतों के मालिकता के बारे में जानकारी प्रदान करना",
+            "options": [
+                "To provide information about the ownership of land and buildings",
+                "To provide information about the ownership of land and buildings",
+                "To provide information about the ownership of land and buildings",
+                "To provide information about the ownership of land and buildings"
+            ],
+            "options_np": [
+                "भूमि और इमारतों के मालिकता के बारे में जानकारी प्रदान करना",
+                "भूमि और इमारतों के मालिकता के बारे में जानकारी प्रदान करना",
+                "भूमि और इमारतों के मालिकता के बारे में जानकारी प्रदान करना",
+                "भूमि और इमारतों के मालिकता के बारे में जानकारी प्रदान करना"
+            ]
+        }
+    ]
+}
